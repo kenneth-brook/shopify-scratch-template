@@ -1,0 +1,1 @@
+# shopify-scratch-template
